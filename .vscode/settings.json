@@ -1,0 +1,12 @@
+{
+  "devDocHelper.i18n.projectConfigs": [
+    {
+      "rootPath": ".",
+      "localesPath": ".",
+      "namespace": false
+    }
+  ],
+  "devDocHelper.i18n.isMonorepo": false,
+  "devDocHelper.i18n.currentLanguage": "zh",
+  "devDocHelper.i18n.enabled": true
+}
